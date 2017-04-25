@@ -14,22 +14,25 @@ What were aspects of the presentations for which you had concerns or questions:
 
 
 
-Title of presentation:
+Title of presentation: Music
 
-What were aspects of the presentation that you liked:
-
-What were aspects of the presentations for which you had concerns or questions:
-
-
-
-
-
-Title of presentation:
-
-What were aspects of the presentation that you liked:
+What were aspects of the presentation that you liked: very interesting topic
 
 What were aspects of the presentations for which you had concerns or questions:
+I don't know how your team calculate the entropy, by formula or what?
+why do you use the entropy to analysis your problem? If you just want to represent the variance of the data.
+Why do you analysis the vowel and consonant?
 
+
+
+
+Title of presentation: NBA
+
+What were aspects of the presentation that you liked: fancy pictures!
+
+What were aspects of the presentations for which you had concerns or questions:
+From the moving heat plot, can we get more information about that?
+You might need to do some model diagnosis in your regression
 
 
 
